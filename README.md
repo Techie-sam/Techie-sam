@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Techie-sam
+- 👀 I’m interested in web development, e-commerce solutions, and building engaging user experiences.
+- 🌱 I’ve learned React, JavaScript best practices, and am currently learning how to design visually appealing UI/UX.
+- 💞️ I’m looking to collaborate on e-commerce projects, educational apps, or any fun and creative web development ideas
+- 📫 How to reach me : Email --> mamybello1@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love creating flashcard games for Islamic learning and combining creativity with coding!
