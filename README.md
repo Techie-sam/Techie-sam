@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Techie-sam
 - 👀 I’m interested in web development, e-commerce solutions, and building engaging user experiences.
-- 🌱 I’ve learned React, JavaScript best practices, and am currently learning how to design visually appealing UI/UX.
+- 🌱 Currently diving into JavaScript and ReactJS, exploring UI/UX design, and planning to add Python to my tech stack soon. The journey never stops!
 - 💞️ I’m looking to collaborate on e-commerce projects, educational apps, or any fun and creative web development ideas
 - 📫 How to reach me : Email --> mamybello1@gmail.com
 - 😄 Pronouns: She/Her
