@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Techie-sam
 - 🌱 Currently diving into JavaScript and ReactJS, exploring UI/UX design, and planning to add Python to my tech stack soon. The journey never stops!
 - 💞️ I’m looking to collaborate on e-commerce projects, educational apps, or any fun and creative web development ideas
-- 📫 How to reach me : Email --> mamybello1@gmail.com
-- 😄 Pronouns: She/Her
+- 📫 How to reach me : Email --> tahirousamira@gmail.com
 - ⚡ Fun fact: I can spend hours designing fun Islamic flashcards — because who says learning can’t be playful ?
